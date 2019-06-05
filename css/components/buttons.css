@@ -1,0 +1,49 @@
+/* Your button CSS file */
+
+
+.btn-medium {
+  background: white;
+  color: grey;
+  border: 1px solid grey;
+  border-radius: 40px;
+  padding: 15px 28px;
+  font-weight: lighter;
+  opacity: 0.5;
+}
+
+.btn-medium:hover {
+  opacity: 0.9;
+}
+
+.btn-treehouse {
+  background: #3AC162;
+  color: white;
+  border: 1px solid #3AC162;
+  border-radius: 9px;
+  padding: 15px 28px;
+  font-weight: bold;
+  opacity: 1;
+  }
+
+.btn-treehouse:hover {
+  opacity: 0.7;
+}
+
+
+.btn-yours {
+  background: #2F4858;
+  color: #F26419;
+  border: 1px solid #2F4858;
+  padding: 15px 28px;
+  border-radius: 9px;
+  font-weight: bold;
+  opacity: 0.5;
+}
+
+.btn-yours:hover {
+  background: #33658A;
+  color: #F26419;
+  border: 1px solid #33658A;
+  font-weight: bold;
+  opacity: 0.9;
+}
